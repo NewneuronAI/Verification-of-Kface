@@ -19,6 +19,6 @@ Accuracy : Train 100%, test 98.8%
 ![캡처_2020_09_01_20_03_22_156](https://user-images.githubusercontent.com/70565376/91842466-13823400-ec8f-11ea-938f-6214a9ec36a7.png)
 ![캡처_2020_09_01_20_03_41_639](https://user-images.githubusercontent.com/70565376/91842467-141aca80-ec8f-11ea-9be8-f9a3309640ce.png)
 ![캡처_2020_09_01_20_06_26_215](https://user-images.githubusercontent.com/70565376/91842468-141aca80-ec8f-11ea-9406-9bcc2811d8df.png)
-![캡처_2020_09_01_19_25_59_617](https://user-images.githubusercontent.com/70565376/91842470-14b36100-ec8f-11ea-9866-f2dd9d858b64.png)
+
 
 
